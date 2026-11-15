@@ -49,5 +49,3 @@ El emulador de Android consulta el servidor que corre en el PC mediante `http://
 ## Despliegue
 
 API publicada en Render: [Consultar catálogo](https://alba-catalogo-api.onrender.com/api/productos).
-
-La app Android usa este endpoint para cargar el catálogo sin ejecutar Spring Boot en el PC.
