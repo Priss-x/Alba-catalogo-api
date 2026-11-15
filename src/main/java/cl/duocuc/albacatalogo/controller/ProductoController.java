@@ -1,4 +1,4 @@
-package cl.duocuc.albacatalogo;
+package cl.duocuc.albacatalogo.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
